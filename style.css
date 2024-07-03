@@ -76,7 +76,7 @@ a{
     color: var(--green);
 }
 footer{
-    color: var(--white);
+    color: var(--green);
     width: 90%;
     background-color: var(--grey);
     margin: auto;
@@ -89,7 +89,6 @@ footer{
 
 }
 .date{
-    color: var(--green);
     font-size: 14px;
 }
 
